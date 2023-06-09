@@ -1,0 +1,8 @@
+numpy
+svmbir
+matplotlib
+chardet
+opencv-python
+setuptools
+bm3d
+scipy
