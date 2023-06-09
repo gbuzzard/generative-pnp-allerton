@@ -1,3 +1,8 @@
+.DS_Store
+.idea/*
+*.swp
+experiments/results/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

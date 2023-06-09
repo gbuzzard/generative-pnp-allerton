@@ -16,7 +16,7 @@ def main():
     sigma_max = 0.5
     sigma_min = 0.005
     beta = 0.25  # Controls the step size
-    alpha = 1.5  # Higher value gives more regularized samples.
+    alpha = 1.3  # Higher value gives more regularized samples.
     generate_option = True  # If false, then find the PnP fixed point.
 
     # Set parameters for sparse-view CT
