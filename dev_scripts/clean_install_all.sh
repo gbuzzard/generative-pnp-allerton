@@ -13,3 +13,6 @@ conda create --name $NAME python=3.8
 conda activate $NAME
 pip install -r ../requirements.txt
 
+echo " "
+echo "Use 'conda activate" $NAME "' to activate this environment."
+echo " "
