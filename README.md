@@ -1,11 +1,11 @@
 # generative-pnp-allerton
-Code to implement methods and experiments for Generative Plug-and-Play: Posterior Sampling for Inverse Problems
+Code to implement methods and experiments for Generative Plug-and-Play: Posterior Sampling for 
+Inverse Problems, available at https://arxiv.org/abs/2306.07233.  
 
 If you use this code in your work, please cite
 
 C.A. Bouman and G.T. Buzzard, "Generative Plug-and-Play: Posterior
-Sampling for Inverse Problems," 2023 Allerton Conference on 
-Communication, Control, and Computing (Allerton), 2023.  
+Sampling for Inverse Problems," arxiv preprint:2306.07233, 2023.  
 
 Installation on MacOS and Linux:
 --------------------------------
