@@ -3,7 +3,7 @@
 # Create and activate new conda environment
 # First check if the target environment is active and deactivate if so
 NAME=gpnp
-if [ "$CONDA_DEFAULT_ENV" == $NAME ]; then
+if [ "$CONDA_DEFAULT_ENV"==$NAME ]; then
     conda deactivate
 fi
 
@@ -13,6 +13,6 @@ conda create --name $NAME python=3.8
 conda activate $NAME
 pip install -r ../requirements.txt
 
-echo " "
+echo
 echo "Use 'conda activate" $NAME "' to activate this environment."
-echo " "
+echo
